@@ -29,17 +29,17 @@ Here is a sample output for 2022.
 ```
 What year? 2022
 
-a: 6
+a: 8
 b: 20
-c: 20
+c: 22
 d: 5
 e: 0
 f: 1
 g: 6
-h: 18
+h: 26
 i: 5
-k: 0
-r: 3
+k: 2
+r: 0
 m: 0
 n: 4
 p: 16
